@@ -5,3 +5,4 @@ The first layout which is my index the about me page. You will be able to read s
 https://www.w3schools.com/howto/tryit.asp?filename=tryhow_css_topnav copy code from here to setup my navbar
 
 <img src="./Annotation 2021-01-30 152819.png">
+<img src='./Annotation 2021-10-30 153055.png'>
